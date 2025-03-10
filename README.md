@@ -1,0 +1,1 @@
+Folder ini berisi semua dokumen dan file yang diperlukan untuk kerja praktek di PT Vultra Digital Asia.
